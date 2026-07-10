@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+Usage Training.csv
+*.xlsx
+forecast_results/
+.ipynb_checkpoints/
+.env
+.aws/
